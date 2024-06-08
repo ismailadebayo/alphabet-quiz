@@ -10,7 +10,7 @@ const incorrectSpan = document.getElementById("incorrect");
 
 const questions = [
   {
-    question: "Question 1: Identify the letter in the sound?",
+    question: "Question 1/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haastart.jpg" },
       { text: "Goin", image: "./alphabet/goin-mid.jpg" },
@@ -21,7 +21,7 @@ const questions = [
     audio: "./audio/haa-audio.ogg",
   },
   {
-    question: "Question 2: Identify the letter in the sound?",
+    question: "Question 2/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haastart.jpg" },
       { text: "Goin", image: "./alphabet/goin-mid.jpg" },
@@ -32,7 +32,7 @@ const questions = [
     audio: "./audio/haaa-audio.ogg",
   },
   {
-    question: "Question 3: Identify the letter in the sound?",
+    question: "Question 3/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haastart.jpg" },
       { text: "Goin", image: "./alphabet/goin-mid.jpg" },
@@ -43,7 +43,7 @@ const questions = [
     audio: "./audio/goin-audio.ogg",
   },
   {
-    question: "Question 4: Identify the letter in the sound?",
+    question: "Question 4/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haastart.jpg" },
       { text: "Goin", image: "./alphabet/goin-mid.jpg" },
@@ -54,7 +54,7 @@ const questions = [
     audio: "./audio/ain-audio.ogg",
   },
   {
-    question: "Question 5: Identify the letter in the sound?",
+    question: "Question 5/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haa-end.jpg" },
       { text: "Goin", image: "./alphabet/goin-end.jpg" },
@@ -65,7 +65,7 @@ const questions = [
     audio: "./audio/khaa-audio.ogg",
   },
   {
-    question: "Question 6: Identify the letter in the sound?",
+    question: "Question 6/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haa-end.jpg" },
       { text: "Goin", image: "./alphabet/goin-end.jpg" },
@@ -76,7 +76,7 @@ const questions = [
     audio: "./audio/hamza-audio.ogg",
   },
   {
-    question: "Question 7: Identify the letter in the sound?",
+    question: "Question 7/30: Identify the letter in the sound?",
     choices: [
       { text: "Yaa", image: "./alphabet/yaa-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -87,7 +87,7 @@ const questions = [
     audio: "./audio/laam.ogg",
   },
   {
-    question: "Question 8: Identify the letter in the sound?",
+    question: "Question 8/30: Identify the letter in the sound?",
     choices: [
       { text: "Yaa", image: "./alphabet/yaa-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -98,7 +98,7 @@ const questions = [
     audio: "./audio/raa-audio.ogg",
   },
   {
-    question: "Question 9: Identify the letter in the sound?",
+    question: "Question 9/30: Identify the letter in the sound?",
     choices: [
       { text: "Yaa", image: "./alphabet/yaa-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -109,7 +109,7 @@ const questions = [
     audio: "./audio/mim-audio.ogg",
   },
   {
-    question: "Question 10: Identify the letter in the sound?",
+    question: "Question 10/30: Identify the letter in the sound?",
     choices: [
       { text: "Yaa", image: "./alphabet/yaa-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -120,7 +120,7 @@ const questions = [
     audio: "./audio/yaa-audio.ogg",
   },
   {
-    question: "Question 11: Identify the letter in the sound?",
+    question: "Question 11/30: Identify the letter in the sound?",
     choices: [
       { text: "Waw", image: "./alphabet/waw-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -131,7 +131,7 @@ const questions = [
     audio: "./audio/nun-audio.ogg",
   },
   {
-    question: "Question 12: Identify the letter in the sound?",
+    question: "Question 12/30: Identify the letter in the sound?",
     choices: [
       { text: "Waw", image: "./alphabet/waw-middle.jpg" },
       { text: "Raa", image: "./alphabet/raa-end.jpg" },
@@ -142,7 +142,7 @@ const questions = [
     audio: "./audio/wow-audio.ogg",
   },
   {
-    question: "Question 13: Identify the letter in the sound?",
+    question: "Question 13/30: Identify the letter in the sound?",
     choices: [
       { text: "Baa", image: "./alphabet/baa-mid.jpg" },
       { text: "Thaa", image: "./alphabet/thaa-beg.jpg" },
@@ -153,7 +153,7 @@ const questions = [
     audio: "./audio/baa-audio.ogg",
   },
   {
-    question: "Question 14: Identify the letter in the sound?",
+    question: "Question 14/30: Identify the letter in the sound?",
     choices: [
       { text: "Baa", image: "./alphabet/baa-mid.jpg" },
       { text: "Thaa", image: "./alphabet/thaa-beg.jpg" },
@@ -164,7 +164,7 @@ const questions = [
     audio: "./audio/jim-audio.ogg",
   },
   {
-    question: "Question 15: Identify the letter in the sound?",
+    question: "Question 15/30: Identify the letter in the sound?",
     choices: [
       { text: "Baa", image: "./alphabet/baa-mid.jpg" },
       { text: "Thaa", image: "./alphabet/thaa-beg.jpg" },
@@ -175,7 +175,7 @@ const questions = [
     audio: "./audio/thaa-audio.ogg",
   },
   {
-    question: "Question 16: Identify the letter in the sound?",
+    question: "Question 16/30: Identify the letter in the sound?",
     choices: [
       { text: "Baa", image: "./alphabet/baa-mid.jpg" },
       { text: "Thaa", image: "./alphabet/thaa-beg.jpg" },
@@ -186,7 +186,7 @@ const questions = [
     audio: "./audio/taa-audio.ogg",
   },
   {
-    question: "Question 17: Identify the letter in the sound?",
+    question: "Question 17/30: Identify the letter in the sound?",
     choices: [
       { text: "Sin", image: "./alphabet/sin-end.jpg" },
       { text: "Dhal", image: "./alphabet/dhaal-end.jpg" },
@@ -197,7 +197,7 @@ const questions = [
     audio: "./audio/zayun-audio.ogg",
   },
   {
-    question: "Question 18: Identify the letter in the sound?",
+    question: "Question 18/30: Identify the letter in the sound?",
     choices: [
       { text: "Sin", image: "./alphabet/sin-end.jpg" },
       { text: "Dhal", image: "./alphabet/dhaal-end.jpg" },
@@ -208,7 +208,7 @@ const questions = [
     audio: "./audio/sin-audio.ogg",
   },
   {
-    question: "Question 19: Identify the letter in the sound?",
+    question: "Question 19/30: Identify the letter in the sound?",
     choices: [
       { text: "Sin", image: "./alphabet/sin-end.jpg" },
       { text: "Dhal", image: "./alphabet/dhaal-end.jpg" },
@@ -219,7 +219,7 @@ const questions = [
     audio: "./audio/daal-audio.ogg",
   },
   {
-    question: "Question 20: Identify the letter in the sound?",
+    question: "Question 20/30: Identify the letter in the sound?",
     choices: [
       { text: "Sin", image: "./alphabet/sin-end.jpg" },
       { text: "Dhal", image: "./alphabet/dhaal-end.jpg" },
@@ -230,7 +230,7 @@ const questions = [
     audio: "./audio/dhaal-audio.ogg",
   },
   {
-    question: "Question 21: Identify the letter in the sound?",
+    question: "Question 21/30: Identify the letter in the sound?",
     choices: [
       { text: "Sod", image: "./alphabet/sad-middle.jpg" },
       { text: "Zoo", image: "./alphabet/zoo-end.jpg" },
@@ -241,7 +241,7 @@ const questions = [
     audio: "./audio/shin-audio.ogg",
   },
   {
-    question: "Question 22: Identify the letter in the sound?",
+    question: "Question 22/30: Identify the letter in the sound?",
     choices: [
       { text: "Sod", image: "./alphabet/sad-middle.jpg" },
       { text: "Zoo", image: "./alphabet/zoo-end.jpg" },
@@ -252,7 +252,7 @@ const questions = [
     audio: "./audio/zoo-audio.ogg",
   },
   {
-    question: "Question 23: Identify the letter in the sound?",
+    question: "Question 23/30: Identify the letter in the sound?",
     choices: [
       { text: "Sod", image: "./alphabet/sad-middle.jpg" },
       { text: "Zoo", image: "./alphabet/zoo-end.jpg" },
@@ -263,7 +263,7 @@ const questions = [
     audio: "./audio/sad-audio.ogg",
   },
   {
-    question: "Question 24: Identify the letter in the sound?",
+    question: "Question 24/30: Identify the letter in the sound?",
     choices: [
       { text: "Sod", image: "./alphabet/sad-middle.jpg" },
       { text: "Zoo", image: "./alphabet/zoo-end.jpg" },
@@ -274,7 +274,7 @@ const questions = [
     audio: "./audio/dod-audio.ogg",
   },
   {
-    question: "Question 25: Identify the letter in the sound?",
+    question: "Question 25/30: Identify the letter in the sound?",
     choices: [
       { text: "Too", image: "./alphabet/too-mid.jpg" },
       { text: "Kaf", image: "./alphabet/kaf-beg.jpg" },
@@ -285,7 +285,7 @@ const questions = [
     audio: "./audio/faa-audio.ogg",
   },
   {
-    question: "Question 26: Identify the letter in the sound?",
+    question: "Question 26/30: Identify the letter in the sound?",
     choices: [
       { text: "Too", image: "./alphabet/too-mid.jpg" },
       { text: "Kaf", image: "./alphabet/kaf-beg.jpg" },
@@ -296,7 +296,7 @@ const questions = [
     audio: "./audio/too-audio.ogg",
   },
   {
-    question: "Question 27: Identify the letter in the sound?",
+    question: "Question 27/30: Identify the letter in the sound?",
     choices: [
       { text: "Too", image: "./alphabet/too-mid.jpg" },
       { text: "Kaf", image: "./alphabet/kaf-beg.jpg" },
@@ -307,7 +307,7 @@ const questions = [
     audio: "./audio/kaaf.ogg",
   },
   {
-    question: "Question 28: Identify the letter in the audio?",
+    question: "Question 28/30: Identify the letter in the audio?",
     choices: [
       { text: "Too", image: "./alphabet/too-mid.jpg" },
       { text: "Kaf", image: "./alphabet/kaf-beg.jpg" },
@@ -318,7 +318,7 @@ const questions = [
     audio: "./audio/qaf-audio.ogg",
   },
   {
-    question: "Question 29: Identify the letter in the sound?",
+    question: "Question 29/30: Identify the letter in the sound?",
     choices: [
       { text: "Hamza", image: "./alphabet/hamza-end.jpg" },
       { text: "Goin", image: "./alphabet/goin-end.jpg" },
@@ -329,7 +329,7 @@ const questions = [
     audio: "./audio/hamza-audio.ogg",
   },
   {
-    question: "Question 30: Identify the letter in the sound?",
+    question: "Question 30/30: Identify the letter in the sound?",
     choices: [
       { text: "Haa", image: "./alphabet/haa-end.jpg" },
       { text: "Goin", image: "./alphabet/goin-end.jpg" },
