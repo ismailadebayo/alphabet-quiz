@@ -12,7 +12,7 @@ const questions = [
   {
     question: "Question 1: Identify the letter in the sound?",
     choices: [
-      { text: "Haa", image: "../alphabet/haa-start.jpg" },
+      { text: "Haa", image: "./alphabet/haastart.jpg" },
       { text: "Goin", image: "../alphabet/goin-mid.jpg" },
       { text: "Ain", image: "../alphabet/ain-middle.jpg" },
       { text: "Hhaa", image: "../alphabet/haa-end.jpg" },
