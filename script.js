@@ -18,7 +18,7 @@ const questions = [
       { text: "Hhaa", image: "./alphabet/haa-end.jpg" },
     ],
     correctAnswer: "Haa",
-    audio: "./audio/haa-audio.ogg",
+    audio: "./audio/haa-audio.mp3",
   },
   {
     question: "Question 2/30: Identify the letter in the sound?",
@@ -29,7 +29,7 @@ const questions = [
       { text: "Hhaa", image: "./alphabet/haa-end.jpg" },
     ],
     correctAnswer: "Hhaa",
-    audio: "./audio/haaa-audio.ogg",
+    audio: "./audio/haaa-audio.mp3",
   },
   {
     question: "Question 3/30: Identify the letter in the sound?",
@@ -40,7 +40,7 @@ const questions = [
       { text: "Hhaa", image: "./alphabet/haa-end.jpg" },
     ],
     correctAnswer: "Goin",
-    audio: "./audio/goin-audio.ogg",
+    audio: "./audio/goin-audio.mp3",
   },
   {
     question: "Question 4/30: Identify the letter in the sound?",
@@ -51,7 +51,7 @@ const questions = [
       { text: "Hhaa", image: "./alphabet/haa-end.jpg" },
     ],
     correctAnswer: "Ain",
-    audio: "./audio/ain-audio.ogg",
+    audio: "./audio/ain-audio.mp3",
   },
   {
     question: "Question 5/30: Identify the letter in the sound?",
@@ -62,7 +62,7 @@ const questions = [
       { text: "Hamza", image: "./alphabet/hamza-end.jpg" },
     ],
     correctAnswer: "Khaa",
-    audio: "./audio/khaa-audio.ogg",
+    audio: "./audio/khaa-audio.mp3",
   },
   {
     question: "Question 6/30: Identify the letter in the sound?",
@@ -73,7 +73,7 @@ const questions = [
       { text: "Hamza", image: "./alphabet/hamza-middle.jpg" },
     ],
     correctAnswer: "Hamza",
-    audio: "./audio/hamza-audio.ogg",
+    audio: "./audio/hamza-audio.mp3",
   },
   {
     question: "Question 7/30: Identify the letter in the sound?",
@@ -84,7 +84,7 @@ const questions = [
       { text: "Lam", image: "./alphabet/lam-middle.jpg" },
     ],
     correctAnswer: "Lam",
-    audio: "./audio/laam.ogg",
+    audio: "./audio/laam.mp3",
   },
   {
     question: "Question 8/30: Identify the letter in the sound?",
@@ -95,7 +95,7 @@ const questions = [
       { text: "Lam", image: "./alphabet/lam-middle.jpg" },
     ],
     correctAnswer: "Raa",
-    audio: "./audio/raa-audio.ogg",
+    audio: "./audio/raa-audio.mp3",
   },
   {
     question: "Question 9/30: Identify the letter in the sound?",
@@ -106,7 +106,7 @@ const questions = [
       { text: "Lam", image: "./alphabet/lam-middle.jpg" },
     ],
     correctAnswer: "Mim",
-    audio: "./audio/mim-audio.ogg",
+    audio: "./audio/mim-audio.mp3",
   },
   {
     question: "Question 10/30: Identify the letter in the sound?",
@@ -117,7 +117,7 @@ const questions = [
       { text: "Lam", image: "./alphabet/lam-middle.jpg" },
     ],
     correctAnswer: "Yaa",
-    audio: "./audio/yaa-audio.ogg",
+    audio: "./audio/yaa-audio.mp3",
   },
   {
     question: "Question 11/30: Identify the letter in the sound?",
@@ -128,7 +128,7 @@ const questions = [
       { text: "Nun", image: "./alphabet/nun-middle.jpg" },
     ],
     correctAnswer: "Nun",
-    audio: "./audio/nun-audio.ogg",
+    audio: "./audio/nun-audio.mp3",
   },
   {
     question: "Question 12/30: Identify the letter in the sound?",
@@ -139,7 +139,7 @@ const questions = [
       { text: "Nun", image: "./alphabet/nun-middle.jpg" },
     ],
     correctAnswer: "Waw",
-    audio: "./audio/wow-audio.ogg",
+    audio: "./audio/wow-audio.mp3",
   },
   {
     question: "Question 13/30: Identify the letter in the sound?",
@@ -150,7 +150,7 @@ const questions = [
       { text: "Jim", image: "./alphabet/jim-start.jpg" },
     ],
     correctAnswer: "Baa",
-    audio: "./audio/baa-audio.ogg",
+    audio: "./audio/baa-audio.mp3",
   },
   {
     question: "Question 14/30: Identify the letter in the sound?",
@@ -161,7 +161,7 @@ const questions = [
       { text: "Jim", image: "./alphabet/jim-start.jpg" },
     ],
     correctAnswer: "Jim",
-    audio: "./audio/jim-audio.ogg",
+    audio: "./audio/jim-audio.mp3",
   },
   {
     question: "Question 15/30: Identify the letter in the sound?",
@@ -172,7 +172,7 @@ const questions = [
       { text: "Jim", image: "./alphabet/jim-start.jpg" },
     ],
     correctAnswer: "Thaa",
-    audio: "./audio/thaa-audio.ogg",
+    audio: "./audio/thaa-audio.mp3",
   },
   {
     question: "Question 16/30: Identify the letter in the sound?",
@@ -183,7 +183,7 @@ const questions = [
       { text: "Jim", image: "./alphabet/jim-start.jpg" },
     ],
     correctAnswer: "Taa",
-    audio: "./audio/taa-audio.ogg",
+    audio: "./audio/taa-audio.mp3",
   },
   {
     question: "Question 17/30: Identify the letter in the sound?",
@@ -194,7 +194,7 @@ const questions = [
       { text: "Dal", image: "./alphabet/daal-end.jpg" },
     ],
     correctAnswer: "Zayun",
-    audio: "./audio/zayun-audio.ogg",
+    audio: "./audio/zayun-audio.mp3",
   },
   {
     question: "Question 18/30: Identify the letter in the sound?",
@@ -205,7 +205,7 @@ const questions = [
       { text: "Dal", image: "./alphabet/daal-end.jpg" },
     ],
     correctAnswer: "Sin",
-    audio: "./audio/sin-audio.ogg",
+    audio: "./audio/sin-audio.mp3",
   },
   {
     question: "Question 19/30: Identify the letter in the sound?",
@@ -216,7 +216,7 @@ const questions = [
       { text: "Dal", image: "./alphabet/daal-end.jpg" },
     ],
     correctAnswer: "Dal",
-    audio: "./audio/daal-audio.ogg",
+    audio: "./audio/daal-audio.mp3",
   },
   {
     question: "Question 20/30: Identify the letter in the sound?",
@@ -227,7 +227,7 @@ const questions = [
       { text: "Dal", image: "./alphabet/daal-end.jpg" },
     ],
     correctAnswer: "Dhal",
-    audio: "./audio/dhaal-audio.ogg",
+    audio: "./audio/dhaal-audio.mp3",
   },
   {
     question: "Question 21/30: Identify the letter in the sound?",
@@ -238,7 +238,7 @@ const questions = [
       { text: "Shin", image: "./alphabet/shin-mid.jpg" },
     ],
     correctAnswer: "Shin",
-    audio: "./audio/shin-audio.ogg",
+    audio: "./audio/shin-audio.mp3",
   },
   {
     question: "Question 22/30: Identify the letter in the sound?",
@@ -249,7 +249,7 @@ const questions = [
       { text: "Shin", image: "./alphabet/shin-mid.jpg" },
     ],
     correctAnswer: "Zoo",
-    audio: "./audio/zoo-audio.ogg",
+    audio: "./audio/zoo-audio.mp3",
   },
   {
     question: "Question 23/30: Identify the letter in the sound?",
@@ -260,7 +260,7 @@ const questions = [
       { text: "Shin", image: "./alphabet/shin-mid.jpg" },
     ],
     correctAnswer: "Sod",
-    audio: "./audio/sad-audio.ogg",
+    audio: "./audio/sad-audio.mp3",
   },
   {
     question: "Question 24/30: Identify the letter in the sound?",
@@ -271,7 +271,7 @@ const questions = [
       { text: "Shin", image: "./alphabet/shin-mid.jpg" },
     ],
     correctAnswer: "Dood",
-    audio: "./audio/dod-audio.ogg",
+    audio: "./audio/dod-audio.mp3",
   },
   {
     question: "Question 25/30: Identify the letter in the sound?",
@@ -282,7 +282,7 @@ const questions = [
       { text: "Faa", image: "./alphabet/faa-middle.jpg" },
     ],
     correctAnswer: "Faa",
-    audio: "./audio/faa-audio.ogg",
+    audio: "./audio/faa-audio.mp3",
   },
   {
     question: "Question 26/30: Identify the letter in the sound?",
@@ -293,7 +293,7 @@ const questions = [
       { text: "Faa", image: "./alphabet/faa-middle.jpg" },
     ],
     correctAnswer: "Too",
-    audio: "./audio/too-audio.ogg",
+    audio: "./audio/too-audio.mp3",
   },
   {
     question: "Question 27/30: Identify the letter in the sound?",
@@ -304,7 +304,7 @@ const questions = [
       { text: "Faa", image: "./alphabet/faa-middle.jpg" },
     ],
     correctAnswer: "Kaf",
-    audio: "./audio/kaaf.ogg",
+    audio: "./audio/kaaf.mp3",
   },
   {
     question: "Question 28/30: Identify the letter in the audio?",
@@ -315,7 +315,7 @@ const questions = [
       { text: "Faa", image: "./alphabet/faa-middle.jpg" },
     ],
     correctAnswer: "Qof",
-    audio: "./audio/qaf-audio.ogg",
+    audio: "./audio/qaf-audio.mp3",
   },
   {
     question: "Question 29/30: Identify the letter in the sound?",
@@ -326,7 +326,7 @@ const questions = [
       { text: "Dal", image: "./alphabet/dal.jpg" },
     ],
     correctAnswer: "Hamza",
-    audio: "./audio/hamza-audio.ogg",
+    audio: "./audio/hamza-audio.mp3",
   },
   {
     question: "Question 30/30: Identify the letter in the sound?",
@@ -337,7 +337,7 @@ const questions = [
       { text: "Ain", image: "./alphabet/ain-end.jpg" },
     ],
     correctAnswer: "Ain",
-    audio: "./audio/ain-audio.ogg",
+    audio: "./audio/ain-audio.mp3",
   },
   // Add more questions here...
 ];
